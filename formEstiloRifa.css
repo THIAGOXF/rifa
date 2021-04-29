@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+}
+.formulario{
+    margin: auto;
+    width: auto;
+    background-color: blue;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+}
+.formulario p{
+    color: cornsilk;
+}

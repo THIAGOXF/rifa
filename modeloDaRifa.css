@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+.sorteio{
+    margin: auto;
+    width: auto;
+    background-color: blue;
+    text-align: center;
+    vertical-align: auto;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.rifas{
+    margin: auto;
+    width: auto;
+    background-color: bisque;
+    text-align: left;
+    vertical-align: auto;
+    border-style: solid;
+    border-width: 3px;
+}
